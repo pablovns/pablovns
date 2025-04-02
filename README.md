@@ -1,27 +1,6 @@
 Olá! Eu sou o Pablo, atualmente atuando na área de desenvolvimento backend e me formando em Engenharia de Software. Aqui está uma breve descrição das minhas habilidades e tecnologias que já utilizei.
 
-## Menu
 
-- [Contato](#contato)
-- [Social](#social)
-- [Skills](#skills)
-
-## Contato
-
-| | URL
------------- | -------------
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | [viniciuspablo962@gmail.com](viniciuspablo962@gmail.com)
-
----
-
-## Social
-
-| | URL
------------- | -------------
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | [https://www.linkedin.com/in/pablovns/](https://www.linkedin.com/in/pablovns/)
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | [https://www.instagram.com/pablovns_/](https://www.instagram.com/pablovns_/)
-
----
 
 ## Skills
 
