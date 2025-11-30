@@ -1,56 +1,29 @@
 Olá! Eu sou o Pablo, atualmente atuando na área de desenvolvimento backend e me formando em Engenharia de Software. Aqui está uma breve descrição das minhas habilidades e tecnologias que já utilizei.
 
 
+## Linguagens e Frameworks
 
-## Skills
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="40" height="40" /></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" /> </a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+<a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" /> </a>
 
-### Ferramentas e Tecnologias
+## Bancos de Dados
 
-| Skill | Descrição |
-|------------|-------------|
-| <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> | Sistema de controle de versão distribuído. |
-| <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> | Plataforma de hospedagem de código baseada em Git. |
-| <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" /> | Plataforma DevOps para repositórios Git e CI/CD. |
-| <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> | Plataforma para criação e gerenciamento de containers. |
-| [![API REST](https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge&logo=postman&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer) | Interfaces de comunicação baseadas no protocolo HTTP para a troca de dados |
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+<a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="40" height="40" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
 
+## Ferramentas
 
-### Bancos de Dados
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
+<a href="https://azure.microsoft.comproducts/devops" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="40" height="40" /></a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> </a>
 
-| Skill | Descrição |
-|------------|-------------|
-| <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | Sistema de gerenciamento de banco de dados relacional open-source. |
-| <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | Banco de dados relacional avançado e open-source. |
-| <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> | Banco de dados relacional da Microsoft para aplicações empresariais. |
-
-### Linguagens de Programação
-
-| Skill | Descrição |
-|------------|-------------|
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Linguagem de programação multiplataforma muito utilizada no desenvolvimento de aplicações empresariais. |
-| <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | Linguagem de programação orientada a objetos da Microsoft. |
-| <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> | Linguagem de baixo nível amplamente usada em sistemas embarcados e desenvolvimento de sistemas. |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | Linguagem versátil e amplamente utilizada para automação, ciência de dados e desenvolvimento web. |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | Linguagem essencial para o desenvolvimento web interativo. |
-
-### Desenvolvimento Web
-
-| Skill | Descrição |
-|------------|-------------|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | Linguagem de marcação utilizada para estruturar páginas web. |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | Linguagem de estilos usada para o design e layout de páginas web. |
-| <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | Framework CSS para desenvolvimento rápido e responsivo de sites. |
-
-### Frameworks de desenvolvimento
-
-| Skill | Descrição |
-|------------|-------------|
-| <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> | Framework para desenvolvimento de aplicações Java, especialmente em back-end. |
-| [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/) | Framework de desenvolvimento da Microsoft, usado para criar aplicações web, desktop, móveis e serviços. |
-
-### Sistemas Operacionais
-
-| Skill | Descrição |
-|------------|-------------|
-| <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> | Sistema operacional da Microsoft amplamente utilizado. |
-| <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /> | Sistema operacional open-source utilizado para servidores e desenvolvimento. |
