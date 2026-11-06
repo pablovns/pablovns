@@ -1,5 +1,6 @@
 Olá! Eu sou o Pablo, atualmente atuando na área de desenvolvimento backend e me formando em Engenharia de Software. Aqui está uma breve descrição das minhas habilidades e tecnologias que já utilizei.
 
+[Portfólio profissional — PT/EN](https://pablovns-portfolio.pages.dev/)
 
 ## Linguagens e Frameworks
 <div>
